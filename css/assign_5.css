@@ -1,0 +1,60 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.new {
+  background-color: black;
+  height: 100%;
+  width: 100%;
+  margin-top: 0;
+}
+
+.back {
+  background-image: url("../Assets/TRAIL.jpeg");
+  width: 360px;
+  height: 640px;
+  background-repeat: no-repeat;
+  margin: 10px;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+}
+
+p {
+  color: white;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 15px;
+}
+
+h4 {
+  color: white;
+  margin-top: 15px;
+  padding-left: 10px;
+  text-align: left;
+}
+
+.BUT {
+  height: 50px;
+  width: 100px;
+  background-color: orangered;
+  color: white;
+  margin-left: 40%;
+  margin-top: 10px;
+}
+
+
+.link{
+  margin-top:25px;
+  padding-left: 50%;
+}
