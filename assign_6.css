@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.theme {
+  background-image: url("https://ik.imagekit.io/pp9tab6wk/ASSIGNMENT/backbg.jpg");
+  height: 650px;
+  width: 320px;
+  border-radius: 25px;
+  border: 2px;
+  border-style: solid;
+  border-color: #F7F7FF;
+}
